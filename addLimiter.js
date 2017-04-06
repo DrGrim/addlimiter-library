@@ -1,3 +1,5 @@
+alert('This library was created with the purpose to limit popups from movie streaming websites , it limits the popups to just one per player . Be WARNED some players may still show popups so this is not a 100% popup proof script');
+
 function get_hostname(url) {
  
   
